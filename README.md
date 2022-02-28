@@ -17,4 +17,4 @@ In this project I have classifed images on the CIFAR10 dataset.
     </tr>
 </table>
 
-The above classes are classified in the CIFAR10 dataset.
+The above classes are classified on the CIFAR10 dataset.
